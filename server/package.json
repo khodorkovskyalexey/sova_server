@@ -1,0 +1,9 @@
+{
+  "name": "expressapp",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.1.0",
+    "pg": "^8.0.3"
+  }
+}
